@@ -1,0 +1,4 @@
+#!/bin/sh
+staged_files=$(git diff --cached --diff-filter=d --name-only$)
+yarn pretty
+git add -f $staged_files
