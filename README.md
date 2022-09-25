@@ -1,2 +1,2 @@
-# hooklook
-Inspect http calls
+# hypernuke: the game
+
